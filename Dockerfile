@@ -1,4 +1,4 @@
-FROM ubuntu:21.10 as BUILD
+FROM ubuntu:22.10 as BUILD
 
 # install syntax highlighting
 RUN apt-get -y update
