@@ -22,6 +22,6 @@ Difficile de nous louper. Nous sommes implantés en plein cœur de la ville sur 
 
 #### Sur les réseaux
 
-Consultez notre page facebook {{<icon class="fa fa-facebook-official">}}&nbsp;[Pharmacie Saint Joseph](https://www.facebook.com/Pharmacie-Saint-Joseph-Blotzheim-109204180564940/photos/?ref=page_internal) pour découvrir nos dernières offres ou échanger avec notre équipe.
+Consultez notre page facebook {{<icon class="fa fa-facebook-official">}}&nbsp;[Pharmacie Saint Joseph](https://www.facebook.com/profile.php?id=100063555296677) pour découvrir nos dernières offres ou échanger avec notre équipe.
 
 N'hésitez pas à donner votre avis sur notre {{<icon class="fa fa-star">}}&nbsp;[fiche google](https://g.page/pharmacie-saint-joseph?share)
