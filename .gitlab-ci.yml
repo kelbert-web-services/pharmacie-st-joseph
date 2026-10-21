@@ -14,11 +14,7 @@ build-site:
   script:
     - hugo --source=src/ --destination="$CI_PROJECT_DIR/public/"
   artifacts:
-    name: "site-$CI_COMMIT_TAG"
+    name: "site-$CI_COMMIT_REF_SLUG"
     paths:
       - public/
     expire_in: 3 months
-  only:
-    - /^v(\d+\.)?(\d+\.)?(\*|\d+)$/
-  except:
-    - branches
